@@ -1,4 +1,4 @@
-const FaviconsWebpackPlugin = require('favicons-webpack-plugin');
+const FaviconsWebpackPlugin = require('@redocly/favicons-webpack-plugin');
 const merge = require('lodash/merge');
 
 const defaultOptions = {

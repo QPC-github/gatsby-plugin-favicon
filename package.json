@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Redocly/favicons-webpack-plugin.git"
+    "url": "git+https://github.com/Redocly/gatsby-plugin-favicon.git"
   },
   "keywords": [
     "gatsby",
@@ -17,10 +17,10 @@
   "bugs": {
     "url": "https://github.com/Creatiwity/gatsby-plugin-favicon/issues"
   },
-  "homepage": "https://github.com/Redocly/favicons-webpack-plugin.git",
+  "homepage": "https://github.com/Redocly/gatsby-plugin-favicon.git",
   "readme": "README.md",
   "dependencies": {
-    "favicons-webpack-plugin": "https://github.com/Creatiwity/favicons-webpack-plugin.git#0872de414061baaad0a2853c77ae75bc38b8bbbf",
+    "@redocly/favicons-webpack-plugin": "^0.0.9",
     "html-react-parser": "^0.6.4",
     "lodash": "^4.17.11"
   },

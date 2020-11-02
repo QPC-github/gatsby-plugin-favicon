@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Redocly/gatsby-plugin-favicon.git",
   "readme": "README.md",
   "dependencies": {
-    "@redocly/favicons-webpack-plugin": "^0.0.9",
+    "@redocly/favicons-webpack-plugin": "^0.0.10",
     "html-react-parser": "^0.6.4",
     "lodash": "^4.17.11"
   },
